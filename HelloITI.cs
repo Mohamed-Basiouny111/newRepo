@@ -7,3 +7,10 @@ public class HelloITI
         Console.WriteLine("Hello ITI");
     }
 }
+
+
+    public static void printHelloGit()
+    {
+        Console.WriteLine("Hello Git");
+    }
+
