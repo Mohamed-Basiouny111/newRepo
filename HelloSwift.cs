@@ -6,4 +6,8 @@ public class HelloWorld
     {
         Console.WriteLine("Hello World");
     }
+    public void Print()
+    {
+        System.Console.WriteLine("Editing file");
+    }
 }
