@@ -10,4 +10,8 @@ public class HelloWorld
     {
         System.Console.WriteLine("Editing file");
     }
+    public void Print()
+    {
+        System.Console.WriteLine("Editing file");
+    }
 }
